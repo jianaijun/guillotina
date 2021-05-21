@@ -4,7 +4,8 @@ CHANGELOG
 6.3.9 (unreleased)
 ------------------
 
-- Nothing changed yet.
+- Use custom implementation of ContextVar that is not copied automatically to new tasks
+  [masipcat]
 
 
 6.3.8 (2021-05-21)
